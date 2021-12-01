@@ -10,6 +10,7 @@ var mountainClimber = {
     ],
     identification: function() {
         return this.name + "is age" + this.age + "likes to climb" + this.climbName;
+        console.log(identification);
     },
     mountainClimbingFriends: [
         {
